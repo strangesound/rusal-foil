@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/rusal-foil/static/css/main.9faa2c3d.chunk.css",
+    "main.css": "/rusal-foil/static/css/main.9bad6865.chunk.css",
     "main.js": "/rusal-foil/static/js/main.57b937f9.chunk.js",
     "main.js.map": "/rusal-foil/static/js/main.57b937f9.chunk.js.map",
     "runtime-main.js": "/rusal-foil/static/js/runtime-main.f8587170.js",
@@ -10,7 +10,7 @@
     "static/js/3.26b0ea88.chunk.js": "/rusal-foil/static/js/3.26b0ea88.chunk.js",
     "static/js/3.26b0ea88.chunk.js.map": "/rusal-foil/static/js/3.26b0ea88.chunk.js.map",
     "index.html": "/rusal-foil/index.html",
-    "static/css/main.9faa2c3d.chunk.css.map": "/rusal-foil/static/css/main.9faa2c3d.chunk.css.map",
+    "static/css/main.9bad6865.chunk.css.map": "/rusal-foil/static/css/main.9bad6865.chunk.css.map",
     "static/js/2.90fc5ec6.chunk.js.LICENSE.txt": "/rusal-foil/static/js/2.90fc5ec6.chunk.js.LICENSE.txt",
     "static/media/allow.4a7688c9.svg": "/rusal-foil/static/media/allow.4a7688c9.svg",
     "static/media/im1.f7e240cd.png": "/rusal-foil/static/media/im1.f7e240cd.png",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.f8587170.js",
     "static/js/2.90fc5ec6.chunk.js",
-    "static/css/main.9faa2c3d.chunk.css",
+    "static/css/main.9bad6865.chunk.css",
     "static/js/main.57b937f9.chunk.js"
   ]
 }
