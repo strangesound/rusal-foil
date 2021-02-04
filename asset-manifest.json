@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/rusal-foil/static/css/main.803799cb.chunk.css",
+    "main.js": "/rusal-foil/static/js/main.4a6d11e2.chunk.js",
+    "main.js.map": "/rusal-foil/static/js/main.4a6d11e2.chunk.js.map",
+    "runtime-main.js": "/rusal-foil/static/js/runtime-main.0253fa36.js",
+    "runtime-main.js.map": "/rusal-foil/static/js/runtime-main.0253fa36.js.map",
+    "static/js/2.a63faca9.chunk.js": "/rusal-foil/static/js/2.a63faca9.chunk.js",
+    "static/js/2.a63faca9.chunk.js.map": "/rusal-foil/static/js/2.a63faca9.chunk.js.map",
+    "static/js/3.4a6d3034.chunk.js": "/rusal-foil/static/js/3.4a6d3034.chunk.js",
+    "static/js/3.4a6d3034.chunk.js.map": "/rusal-foil/static/js/3.4a6d3034.chunk.js.map",
+    "index.html": "/rusal-foil/index.html",
+    "static/css/main.803799cb.chunk.css.map": "/rusal-foil/static/css/main.803799cb.chunk.css.map",
+    "static/js/2.a63faca9.chunk.js.LICENSE.txt": "/rusal-foil/static/js/2.a63faca9.chunk.js.LICENSE.txt",
+    "static/media/im1.adb14ae0.png": "/rusal-foil/static/media/im1.adb14ae0.png",
+    "static/media/im2.755cd652.png": "/rusal-foil/static/media/im2.755cd652.png",
+    "static/media/im3.82f625f9.png": "/rusal-foil/static/media/im3.82f625f9.png",
+    "static/media/im4.6a156d8c.png": "/rusal-foil/static/media/im4.6a156d8c.png",
+    "static/media/im5.00d3fa56.png": "/rusal-foil/static/media/im5.00d3fa56.png",
+    "static/media/logo.6ce24c58.svg": "/rusal-foil/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0253fa36.js",
+    "static/js/2.a63faca9.chunk.js",
+    "static/css/main.803799cb.chunk.css",
+    "static/js/main.4a6d11e2.chunk.js"
+  ]
+}
