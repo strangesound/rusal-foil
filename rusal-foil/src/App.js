@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
 import ReactPageScroller from 'react-page-scroller';
 import Page from './page.js'
@@ -11,15 +11,15 @@ import im5 from './images/im5.png';
 
 function App() {
 
-  const goToPage = (pageNumber) => {
-    this.reactPageScroller.goToPage(pageNumber);
-  }
+  // const goToPage = (pageNumber) => {
+  //   this.reactPageScroller.goToPage(pageNumber);
+  // }
 
 
 
   return (
     <div className="App">
-      <button >test</button>
+      {/* <button >test</button> */}
       {/* onClick={goToPage(3)} */}
       <ReactPageScroller ref={c => this.reactPageScroller = c}>
         <Page img={im1} />
