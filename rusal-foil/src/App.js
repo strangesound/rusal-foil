@@ -2,6 +2,7 @@
 import './App.css';
 import ReactPageScroller from 'react-page-scroller';
 import Page from './page.js'
+import Header from './Header.jsx'
 import im1 from './images/im1.png';
 import im2 from './images/im2.png';
 import im3 from './images/im3.png';
@@ -21,6 +22,7 @@ function App() {
     <div className="App">
       {/* <button >test</button> */}
       {/* onClick={goToPage(3)} */}
+      <Header/>
       <ReactPageScroller ref={c => this.reactPageScroller = c}>
         <Page img={im1} />
         <Page img={im2} />

@@ -3,4 +3,5 @@
     width: 100%;
     object-fit: contain;
     object-position: center;
+    z-index: -1;
 }
