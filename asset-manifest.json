@@ -1,29 +1,31 @@
 {
   "files": {
     "main.css": "/rusal-foil/static/css/main.9bad6865.chunk.css",
-    "main.js": "/rusal-foil/static/js/main.57b937f9.chunk.js",
-    "main.js.map": "/rusal-foil/static/js/main.57b937f9.chunk.js.map",
+    "main.js": "/rusal-foil/static/js/main.fe4f66eb.chunk.js",
+    "main.js.map": "/rusal-foil/static/js/main.fe4f66eb.chunk.js.map",
     "runtime-main.js": "/rusal-foil/static/js/runtime-main.f8587170.js",
     "runtime-main.js.map": "/rusal-foil/static/js/runtime-main.f8587170.js.map",
-    "static/js/2.90fc5ec6.chunk.js": "/rusal-foil/static/js/2.90fc5ec6.chunk.js",
-    "static/js/2.90fc5ec6.chunk.js.map": "/rusal-foil/static/js/2.90fc5ec6.chunk.js.map",
+    "static/js/2.07b4e10c.chunk.js": "/rusal-foil/static/js/2.07b4e10c.chunk.js",
+    "static/js/2.07b4e10c.chunk.js.map": "/rusal-foil/static/js/2.07b4e10c.chunk.js.map",
     "static/js/3.26b0ea88.chunk.js": "/rusal-foil/static/js/3.26b0ea88.chunk.js",
     "static/js/3.26b0ea88.chunk.js.map": "/rusal-foil/static/js/3.26b0ea88.chunk.js.map",
     "index.html": "/rusal-foil/index.html",
     "static/css/main.9bad6865.chunk.css.map": "/rusal-foil/static/css/main.9bad6865.chunk.css.map",
-    "static/js/2.90fc5ec6.chunk.js.LICENSE.txt": "/rusal-foil/static/js/2.90fc5ec6.chunk.js.LICENSE.txt",
+    "static/js/2.07b4e10c.chunk.js.LICENSE.txt": "/rusal-foil/static/js/2.07b4e10c.chunk.js.LICENSE.txt",
     "static/media/allow.4a7688c9.svg": "/rusal-foil/static/media/allow.4a7688c9.svg",
-    "static/media/im1.f7e240cd.png": "/rusal-foil/static/media/im1.f7e240cd.png",
-    "static/media/im2.0acdb9b3.png": "/rusal-foil/static/media/im2.0acdb9b3.png",
-    "static/media/im3.c7fef46b.png": "/rusal-foil/static/media/im3.c7fef46b.png",
-    "static/media/im4.bad26b06.png": "/rusal-foil/static/media/im4.bad26b06.png",
-    "static/media/im5.63dfa666.png": "/rusal-foil/static/media/im5.63dfa666.png",
+    "static/media/im_01.fffba43f.jpg": "/rusal-foil/static/media/im_01.fffba43f.jpg",
+    "static/media/im_02.2db2352b.jpg": "/rusal-foil/static/media/im_02.2db2352b.jpg",
+    "static/media/im_03.739aa15f.jpg": "/rusal-foil/static/media/im_03.739aa15f.jpg",
+    "static/media/im_04.99a39be5.jpg": "/rusal-foil/static/media/im_04.99a39be5.jpg",
+    "static/media/im_05.40e2709d.jpg": "/rusal-foil/static/media/im_05.40e2709d.jpg",
+    "static/media/im_06.aebdf9e0.jpg": "/rusal-foil/static/media/im_06.aebdf9e0.jpg",
+    "static/media/im_07.a2005cd5.jpg": "/rusal-foil/static/media/im_07.a2005cd5.jpg",
     "static/media/rusalLogo.2fec6f7d.svg": "/rusal-foil/static/media/rusalLogo.2fec6f7d.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.f8587170.js",
-    "static/js/2.90fc5ec6.chunk.js",
+    "static/js/2.07b4e10c.chunk.js",
     "static/css/main.9bad6865.chunk.css",
-    "static/js/main.57b937f9.chunk.js"
+    "static/js/main.fe4f66eb.chunk.js"
   ]
 }
